@@ -18,6 +18,20 @@ a:hover {
     cursor: pointer;
 }
 
+.partners ul{
+    padding: 0px;
+    list-style-type: none;
+}
+
+.partners li{
+  margin: 5px;
+  margin-left: 0px;
+}
+
+.partners li a{
+    font-size: 16px;
+}
+
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
